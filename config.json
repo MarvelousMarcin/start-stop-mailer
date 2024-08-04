@@ -1,0 +1,6 @@
+{
+  "to": "test@gmail.com",
+  "title": "PF&DPT - praca",
+  "cc": ["john@gmal.com", "tom@gmail.com"],
+  "focus": true
+}
