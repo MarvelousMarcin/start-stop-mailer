@@ -1,7 +1,7 @@
-# T-MOBILE - START/STOP Mail 😋
+START/STOP Mail 😋
 
 ## Overview
-`T-MOBILE - START/STOP Mail 😋` is a Python script designed to automate the creation and sending of "START" and "STOP" emails using Microsoft Outlook. This script helps in maintaining daily logs by sending emails with predefined subjects and bodies based on user input.
+`START/STOP Mail 😋` is a Python script designed to automate the creation and sending of "START" and "STOP" emails using Microsoft Outlook. This script helps in maintaining daily logs by sending emails with predefined subjects and bodies based on user input.
 
 ## Features
 - Automatically generates email subject lines based on the current date and user input.
